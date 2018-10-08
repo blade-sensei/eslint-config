@@ -1,0 +1,21 @@
+{
+  "name": "lab-eslint-config",
+  "version": "0.0.3",
+  "description": "Lab ESLint configuration",
+  "main": "index.js",
+  "author": "jcarlos.coyla@bnpparibas.com",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-security": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}

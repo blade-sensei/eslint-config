@@ -1,0 +1,6 @@
+.idea/
+typings/**
+node_modules/
+/client/src/app/sdk/
+.DS_Store
+build/
