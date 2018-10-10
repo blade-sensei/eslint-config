@@ -1,9 +1,9 @@
 {
-  "name": "lab-eslint-config",
-  "version": "0.0.3",
-  "description": "Lab ESLint configuration",
+  "name": "eslint-config-core",
+  "version": "1.0.0",
+  "description": "ESLint configuration",
   "main": "index.js",
-  "author": "jcarlos.coyla@bnpparibas.com",
+  "author": "jcarlos.coyla@gmail.com",
   "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb-base": "^13.0.0",
