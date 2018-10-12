@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-core",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "ESLint configuration",
   "main": "index.js",
   "author": "jcarlos.coyla@gmail.com",
