@@ -148,6 +148,8 @@
           "FunctionExpression": false
         }
       }
-    ]
+    ],
+    "arrow-body-style": ["error", "always"],
+    "newline-per-chained-call": ["error", { "ignoreChainWithDepth": 2 }]
   }
 }
