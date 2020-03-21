@@ -1,9 +1,8 @@
 {
-  "name": "eslint-config-core",
-  "version": "1.2.0",
+  "name": "eslint-config-sensei",
+  "version": "2.0.0",
   "description": "ESLint configuration",
   "main": "index.js",
-  "author": "jcarlos.coyla@gmail.com",
   "license": "MIT",
   "dependencies": {
     "eslint-config-airbnb-base": "^13.0.0",
