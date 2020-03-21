@@ -5,7 +5,7 @@ This configuration includes rules from aibnb-eslint [more info](https://github.c
 ## Install
 
 ```bash=
-npm install --save-dev eslint-config-core
+npm install --save-dev eslint-config-sensei
 ``` 
 
 ## Setup
