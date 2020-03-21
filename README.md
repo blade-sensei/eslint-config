@@ -12,5 +12,5 @@ npm install --save-dev eslint-config-core
 In your project create .eslintrc.json file and add this line
 
 ```
-"extends": "eslint-config-core"
+"extends": "eslint-config-sensei"
 ```
